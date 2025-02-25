@@ -1,0 +1,10 @@
+id,identifier_x,generation_id,evolves_from_species_id,evolution_chain_id,color_id,shape_id,habitat_id,gender_rate,capture_rate,base_happiness,is_baby,hatch_counter,has_gender_differences,growth_rate_id,forms_switchable,is_legendary,is_mythical,order,conquest_order,main_region_id,identifier_y
+1,bulbasaur,1,,1,5,8,3.0,1,45,50.0,0,20.0,0,4,0,0,0,1,,1,generation-i
+2,ivysaur,1,1.0,1,5,8,3.0,1,45,50.0,0,20.0,0,4,0,0,0,2,,2,generation-ii
+3,venusaur,1,2.0,1,5,8,3.0,1,45,50.0,0,20.0,1,4,1,0,0,3,,3,generation-iii
+4,charmander,1,,2,8,6,4.0,1,45,50.0,0,20.0,0,4,0,0,0,4,109.0,4,generation-iv
+5,charmeleon,1,4.0,2,8,6,4.0,1,45,50.0,0,20.0,0,4,0,0,0,5,110.0,5,generation-v
+6,charizard,1,5.0,2,8,6,4.0,1,45,50.0,0,20.0,0,4,1,0,0,6,111.0,6,generation-vi
+7,squirtle,1,,3,2,6,9.0,1,45,50.0,0,20.0,0,4,0,0,0,7,,7,generation-vii
+8,wartortle,1,7.0,3,2,6,9.0,1,45,50.0,0,20.0,0,4,0,0,0,8,,8,generation-viii
+9,blastoise,1,8.0,3,2,6,9.0,1,45,50.0,0,20.0,0,4,1,0,0,9,,10,generation-ix
